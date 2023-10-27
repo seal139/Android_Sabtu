@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Latihan 2a</string>
+    <array name="kota">
+        <item>Jakarta</item>
+        <item>Bogor</item>
+        <item>Depok</item>
+        <item>Tangerang</item>
+        <item>Tangerang Selatan</item>
+        <item>Bekasi</item>
+    </array>
+</resources>
